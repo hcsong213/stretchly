@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Nepali translations
 
+### Changed
+- break window size is now dynamic (relative to screen size)
+
 ## [1.1.0] - 2020-09-12
 
 ### Added
